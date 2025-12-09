@@ -1,0 +1,2 @@
+System Architecture:
+Ultrasonic Sensor → Arduino → LCD Display + Buzzer → User Alert
